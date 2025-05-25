@@ -7,7 +7,7 @@ Aplicație backend pentru compararea prețurilor produselor, evidențierea reduc
 1. Clonează acest repository:
 
 ```bash
-git clone https://github.com/robertsamata/PriceComparator.git
+git clone https://github.com/robertsamata/PriceComparatorApp.git
 cd PriceComparator
 ```
 
